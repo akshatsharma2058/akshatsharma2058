@@ -32,6 +32,11 @@ checkout my portfolio website: https://www.akshatsharma2058.github.io
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++&logoColor=1572B6)
 
+<br>
+
+## Spotify Jams🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bnqb2corjjcjf4gsinpb1g2z3&cover_image=true&theme=natemoo-re&bar_color=e6d3b7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **akshatsharma2058/akshatsharma2058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
